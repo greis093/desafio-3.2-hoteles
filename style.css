@@ -1,0 +1,52 @@
+:root {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  background-color: #FFFFFF;
+
+}
+
+.titulo{
+  color:#BB5397 ;
+  font-family: "Comfortaa", sans-serif;
+  letter-spacing: 0.5pc;
+}
+h1 {
+  font-family: Impact, Charcoal, sans-serif ;
+  background-color: white;
+  color:#698593;
+  text-align: center;
+  font-size: 2.5em;
+  line-height: 1.3;
+
+}
+p{
+  text-align:start;
+  color: #3563B6;
+}
+h2{
+  font-size: 1.4em;
+  line-height: 1;
+}
+div {
+  text-align: center;
+}
+
+.logo{
+  border: 800px;
+  width: 200px;
+}
+
+
+.hoteles{
+  float :right;
+  width: 300px;
+  margin: 10px;
+}
+.letf{
+  float: left;
+}
+.img-final{
+  width: 100%;
+}
+
+
+
